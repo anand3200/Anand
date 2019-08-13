@@ -29,7 +29,7 @@
             }
         },
          {
-            "id": 2,
+            "id": 3,
             "prompt_name": "3.wav",
             "prompt_file_name": "Call charge",
             "language": "Spanish",
@@ -43,7 +43,7 @@
             }
         },
          {
-            "id": 2,
+            "id": 4,
             "prompt_name": "4.wav",
             "prompt_file_name": "Insufficient balance",
             "language": "Spanish",
