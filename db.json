@@ -2,8 +2,8 @@
     "promptList": [
         {
             "id": 2,
-            "prompt_name": "collectCallingCardadjnjkjkdakjkjdakjdkajkdjkdfj adkd",
-            "prompt_file_name": "pfx5837779574399423978",
+            "prompt_name": "1.wav",
+            "prompt_file_name": "Welcome",
             "language": "Spanish",
             "tenant": {
                 "id": {
@@ -16,8 +16,8 @@
         },
          {
             "id": 2,
-            "prompt_name": "collectCallingCardadjnjkjkdakjkjdakjdkajkdjkdfj adkd",
-            "prompt_file_name": "pfx5837779574399423978",
+            "prompt_name": "2.wav",
+            "prompt_file_name": "Balance",
             "language": "Spanish",
             "tenant": {
                 "id": {
@@ -30,8 +30,8 @@
         },
          {
             "id": 2,
-            "prompt_name": "dgjbndajjb adkd",
-            "prompt_file_name": "pfx583777afa9574399423978",
+            "prompt_name": "3.wav",
+            "prompt_file_name": "Call charge",
             "language": "Spanish",
             "tenant": {
                 "id": {
