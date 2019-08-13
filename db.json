@@ -1,0 +1,18 @@
+{
+    "promptList": [
+        {
+            "id": 2,
+            "prompt_name": "collectCallingCard",
+            "prompt_file_name": "pfx5837779574399423978sfx",
+            "language": "Spanish",
+            "tenant": {
+                "id": {
+                    "tenantId": "MyFirstTenant"
+                },
+                "cspId": "MyFirstCSPID",
+                "tenantName": "DefaultTenant",
+                "aniPool": []
+            }
+        }
+    ]
+} 
