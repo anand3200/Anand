@@ -2,8 +2,8 @@
     "promptList": [
         {
             "id": 2,
-            "prompt_name": "1.wav",
-            "prompt_file_name": "Welcome",
+            "prompt_name": "welcome",
+            "prompt_file_name": "1.wav",
             "language": "Spanish",
             "tenant": {
                 "id": {
@@ -16,8 +16,8 @@
         },
          {
             "id": 2,
-            "prompt_name": "2.wav",
-            "prompt_file_name": "Balance",
+            "prompt_name": "Balance",
+            "prompt_file_name": "2.wav",
             "language": "Spanish",
             "tenant": {
                 "id": {
@@ -30,8 +30,8 @@
         },
          {
             "id": 3,
-            "prompt_name": "3.wav",
-            "prompt_file_name": "Call charge",
+            "prompt_name": "Call charge",
+            "prompt_file_name": "3.wav",
             "language": "Spanish",
             "tenant": {
                 "id": {
@@ -44,8 +44,8 @@
         },
          {
             "id": 4,
-            "prompt_name": "4.wav",
-            "prompt_file_name": "Insufficient balance",
+            "prompt_name": "Insufficient balance",
+            "prompt_file_name": "4.wav",
             "language": "Spanish",
             "tenant": {
                 "id": {
